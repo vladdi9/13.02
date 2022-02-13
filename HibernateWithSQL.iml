@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map>
+          <unit-entry name="hibernate.cfg.xml" value="8c449827-c1ab-4a4a-9426-74b44749bf11" />
+        </datasource-map>
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="org.springframework.boot:spring-boot:1.1.0.RELEASE" level="project" />
+    <orderEntry type="library" name="com.enigmabridge:hibernate4-sqlite-dialect:0.1.2" level="project" />
+    <orderEntry type="library" name="javax.xml.bind:jaxb-api:2.3.1" level="project" />
+    <orderEntry type="library" name="com.ibm.icu:icu4j:70.1" level="project" />
+    <orderEntry type="library" name="com.opencsv:opencsv:5.5.1" level="project" />
+    <orderEntry type="library" name="org.glassfish.jaxb:jaxb-jxc:2.3.2" level="project" />
+    <orderEntry type="library" name="org.xerial:sqlite-jdbc:3.35.0.1" level="project" />
+    <orderEntry type="library" name="com.github.gwenn:sqlite-dialect:0.1.2" level="project" />
+    <orderEntry type="library" name="javax.persistence:persistence-api:1.0.2" level="project" />
+  </component>
+</module>
